@@ -20,13 +20,13 @@ It creates an **Event MessengerM Channel Wire** palette under *Addons*.
 
 ## Intended Usage
 
-[sample\_simple](sample\_simple\_usage.png)
+![sample_simple](sample_simple_usage.png)
 
 
 
-[async](sample\_usage.png)
+![async](sample_usage.png)
 
-[asyncvi](asyncvi.png)
+![asyncvi](asyncvi.png)
 
 
 
