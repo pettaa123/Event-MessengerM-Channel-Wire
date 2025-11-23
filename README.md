@@ -1,11 +1,10 @@
-\# Event MessengerM Channel Wire
+# Event MessengerM Channel Wire
 
 
 
-This repo is inspired from \[MessengerM Advanced Messenger Channel by Jeff Kodosky](https://github.com/vipm-io/message-multiplexer-channel-wire)
+This repository is inspired by \[MessengerM Advanced Messenger Channel by Jeff Kodosky](https://github.com/vipm-io/message-multiplexer-channel-wire)
 
-LabVIEW Event Messenger Channel Wire with Subchannels.This flavor of native Event Messenger Channel overcomes
-the Limitation of unability to add channel wires into Arrays. It adds a Subchannel Input to the native Write.vi and Read Event Registration.vi
+It provides a LabVIEW Event Messenger Channel Wire with Subchannels. This variant of the native Event Messenger Channel overcomes the limitation of not being able to add channel wires into arrays. It introduces a Subchannel input to the native Write.vi and Read Event Registration.vi.
 
 
 
@@ -13,33 +12,21 @@ the Limitation of unability to add channel wires into Arrays. It adds a Subchann
 
 
 
-\## VIPM
-
-
+## VIPM
 
 The `vipm` folder contains a VIPM package with everything needed to use Event MessengerM Channel Wire.  
 
 It creates an \*\*Event MessengerM Channel Wire\*\* palette under \*Addons\*.
 
+## Intended Usage
 
-
-\## Intended Usage
-
-
-
-!\[sample\_simple](sample\_simple\_usage.png)
+[sample\_simple](sample\_simple\_usage.png)
 
 
 
----
+[async](sample\_usage.png)
 
-
-
-
-
-!\[async](sample\_usage.png)
-
-!\[asyncvi](asyncvi.png)
+[asyncvi](asyncvi.png)
 
 
 
