@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-11-23 18:45:29" Modified_Date="2025-11-23 19:27:24" Creator="tupp_js" Comments="" ID="fac4828e2ff1c63609a57f4cbd73ebf6">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-11-23 18:45:29" Modified_Date="2025-11-26 09:38:01" Creator="tupp_js" Comments="" ID="f666cb052296a21f68355ffeeb986e2e">
   <Library_General_Settings>
     <Package_File_Name>Peter_lib_Event_MessengerM_Channel_Wire</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\source</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -228,7 +228,7 @@
         <Path>..\source\Write.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CA9ECAF15A4CAAF6D76D48CAD9D35294</GUID>
+      <GUID>1B49E3B72FAB9FFDDF84B6F9C7C4558F</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
