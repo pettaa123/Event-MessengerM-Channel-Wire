@@ -11,12 +11,15 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="EventMessengerMData.lvclass" Type="LVClass" URL="../EventMessengerMData.lvclass"/>
-		<Item Name="Wire Probe.vi" Type="VI" URL="../../.source/Wire Probe.vi"/>
-		<Item Name="Channel Probe.vi" Type="VI" URL="../../.source/Channel Probe.vi"/>
+		<Item Name="Wire Probe.vi" Type="VI" URL="../Wire Probe.vi"/>
+		<Item Name="Channel Probe.vi" Type="VI" URL="../Channel Probe.vi"/>
 	</Item>
-	<Item Name="Read Endpoints" Type="Folder">
+	<Item Name="ReadEndpoints" Type="Folder">
 		<Item Name="Read Event Registration.vi" Type="VI" URL="../Read Event Registration.vi"/>
 		<Item Name="Read Multiple Event Registration.vi" Type="VI" URL="../Read Multiple Event Registration.vi"/>
+	</Item>
+	<Item Name="WriteEndpoints" Type="Folder">
+		<Item Name="Write.vi" Type="VI" URL="../Write.vi"/>
 	</Item>
 	<Item Name="))Channel.ctl" Type="VI" URL="../))Channel.ctl"/>
 	<Item Name="))Channel.vi" Type="VI" URL="../))Channel.vi">
@@ -28,5 +31,4 @@
 	<Item Name="Element.ctl" Type="VI" URL="../Element.ctl"/>
 	<Item Name="Event Data.ctl" Type="VI" URL="../Event Data.ctl"/>
 	<Item Name="Instantiate.vi" Type="VI" URL="../Instantiate.vi"/>
-	<Item Name="Write.vi" Type="VI" URL="../Write.vi"/>
 </Library>
