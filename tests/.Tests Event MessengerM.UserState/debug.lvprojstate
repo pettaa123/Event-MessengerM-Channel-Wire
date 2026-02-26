@@ -1,0 +1,18 @@
+<Configuration>
+  <Target name="My Computer">
+    <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="Event MessengerM-i32.lvlib:Write.vi:2270001">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1098"/>
+        </Generic>
+      </Probes>
+    </VI>
+  </Target>
+</Configuration>

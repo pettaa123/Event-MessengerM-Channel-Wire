@@ -20,11 +20,13 @@ It creates an **Event MessengerM Channel Wire** entry under create channel endpo
 
 ![createmenu](create_menu.png)
 
+## Example
+
+![simple](simple_example.png)
+
 ## Intended Usage
 
 ![sample_simple](sample_simple_usage.png)
-
-
 
 ![async](sample_usage.png)
 
