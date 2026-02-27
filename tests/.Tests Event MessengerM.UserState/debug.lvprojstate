@@ -14,5 +14,20 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="Tests Event MessengerM.lvclass:Rerun Aync VI.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="2459"/>
+          <SignalUID value="324"/>
+          <SignalUID value="894"/>
+        </Generic>
+      </Probes>
+    </VI>
   </Target>
 </Configuration>

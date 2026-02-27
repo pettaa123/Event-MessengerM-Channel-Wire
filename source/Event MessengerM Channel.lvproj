@@ -17,6 +17,7 @@
 		<Item Name="Event MessengerM.Scripting.lvlib" Type="Library" URL="../Event MessengerM.Scripting.lvlib"/>
 		<Item Name="Event MessengerM_DialogHelp.vi" Type="VI" URL="../Event MessengerM_DialogHelp.vi"/>
 		<Item Name="Tests Event MessengerM.lvproj" Type="Document" URL="../../tests/Tests Event MessengerM.lvproj"/>
+		<Item Name="UpdateChannelEndpoint.vi" Type="VI" URL="../UpdateChannelEndpoint.llb/UpdateChannelEndpoint.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
