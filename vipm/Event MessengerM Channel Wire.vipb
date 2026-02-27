@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-11-23 18:45:29" Modified_Date="2026-02-27 12:10:32" Creator="tupp_js" Comments="" ID="0a3ba5c90c2b1996aff7aeb65233edd7">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-11-23 18:45:29" Modified_Date="2026-02-27 14:33:22" Creator="tupp_js" Comments="" ID="52195b20139ad0cb758910372a245c4d">
   <Library_General_Settings>
     <Package_File_Name>Peter_Event_MessengerM_Channel_Wire</Package_File_Name>
     <Library_Version>1.0.0.18</Library_Version>
@@ -20,10 +20,10 @@
     <Custom_Action_VIs>
       <Pre-Build_VI/>
       <Post-Build_VI/>
-      <Pre-Install_VI/>
+      <Pre-Install_VI>Pre-Install Custom Action.vi</Pre-Install_VI>
       <Post-Install_VI/>
       <Pre-Uninstall_VI/>
-      <Post-Uninstall_VI/>
+      <Post-Uninstall_VI>Post-Uninstall Custom Action.vi</Post-Uninstall_VI>
     </Custom_Action_VIs>
     <VI_Package_Configuration_File>Event MessengerM Channel Wire.vipc</VI_Package_Configuration_File>
     <Description>
@@ -208,11 +208,17 @@ A right click menu entry &lt;i&gt;Create-&gt;Channel Writer...&lt;/i&gt; is adde
       <Compile_Exclusions>
         <Path>examples</Path>
       </Compile_Exclusions>
+      <Compile_Exclusions>
+        <Path>source/UpdateChannelEndpoint.llb</Path>
+      </Compile_Exclusions>
       <Place_Folder_Contents>
         <Path/>
       </Place_Folder_Contents>
       <Place_Folder_Contents>
         <Path>examples</Path>
+      </Place_Folder_Contents>
+      <Place_Folder_Contents>
+        <Path>source/UpdateChannelEndpoint.llb</Path>
       </Place_Folder_Contents>
     </Source_Files>
     <License_Agreement_Filepath>..\LICENSE</License_Agreement_Filepath>
